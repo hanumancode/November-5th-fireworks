@@ -1,7 +1,16 @@
 body {
     margin: 0;
     padding: 0;
-    background: #000;
+    background: url(guy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #f00;
+    text-align: center;
+    font-size: 5rem;
+    font-family: sans-serif;
 }
 
 section {
